@@ -1,0 +1,50 @@
+@media only screen and (max-width: 600px) {
+  .header {
+    background-color: #6e6e6e;
+    width: 100%;
+  }
+  .services {
+    background-color: aquamarine;
+    width: 100%;
+
+  }
+  .projects {
+    background-color: blueviolet;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    background-color: #6e6e6e;
+    width: 100%;
+  }
+  .services {
+    background-color: aquamarine;
+    width: 100%;
+
+  }
+  .projects {
+    background-color: blueviolet;
+    width: 100%;
+  }
+}
+
+
+@media only screen and (max-width: 1300px) {
+  .header {
+    display: inline-block;
+    background-color: #6e6e6e;
+    width: 100%;
+  }
+  .services {
+    background-color: aquamarine;
+    display: inline-block;
+    width: 100%;
+
+  }
+  .projects {
+    background-color: blueviolet;
+    width: 100%;
+  }
+}
